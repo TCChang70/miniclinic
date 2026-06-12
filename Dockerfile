@@ -1,6 +1,6 @@
 FROM maven:3.9-eclipse-temurin-17-alpine AS build
 WORKDIR /app
-COPY ../*
+COPY . .
 RUN mvn clean package -DskipTests
 
 # 第二階段：只帶 JAR 執行，image 較小
