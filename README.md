@@ -4,7 +4,7 @@
 
 ## 線上 Demo
 
-> https://miniclinic-你的帳號.onrender.com
+> https://miniclinic_srv.onrender.com
 
 ## 技術棧
 
@@ -19,5 +19,5 @@
 1. 確保已安裝 Java 17+ 與 Maven 3.9+
 2. Clone 專案：
    ```bash
-   git clone https://github.com/你的帳號/miniclinic.git
+   git clone https://github.com/TCCang70/miniclinic.git
    cd miniclinic
