@@ -4,7 +4,7 @@
 
 ## 線上 Demo
 
-> https://miniclinic_srv.onrender.com
+> https://miniclinic-srv.onrender.com
 
 ## 技術棧
 
